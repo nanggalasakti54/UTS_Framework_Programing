@@ -1,0 +1,106 @@
+* {
+    margin: 0;
+}
+
+.container {
+    display: grid;
+    width: 100wh;
+    height: 100vh;
+    grid-template-rows: 80px auto 40px;
+}
+
+.header {
+    text-align: center;
+    font-size: 40px;
+    height: 80px;
+}
+
+.logoheader {
+    float: right;
+    padding-right: 50px;
+    padding-top: none;
+}
+
+.content {
+    display: flex;
+    flex-direction: row;
+    height: auto;
+}
+
+.contimg1 {
+    width: 400px;
+    display: flex;
+    flex-direction: column;
+}
+
+.img1 {
+    padding-top: 50px;
+    padding-left: 45px;
+    height: 200px;
+    width: 300px;
+}
+
+.img2 {
+    padding-top: 10px;
+    padding-left: 20px;
+    margin-top: 40px;
+    margin-left: 40px;
+    height: 200px;
+    width: 300px;
+    display: grid;
+    grid-template-columns: 100px 100px 100px;
+}
+
+.contimg2 {
+    width: 566px;
+    display: flex;
+    flex-direction: column;
+}
+
+.text1 {
+    margin-top: 20px;
+    margin-left: 20px;
+    text-justify: auto;
+    text-align: justify;
+    width: 300px;
+}
+
+.text2 {
+    margin-left: 250px;
+    text-align: justify;
+    width: 300px;
+}
+
+.contimg3 {
+    background-color: turquoise;
+    width: 400px;
+}
+
+.img3 {
+    margin-top: 50px;
+    margin-left: 30px;
+    width: 200px;
+    height: 100px;
+}
+
+.footer {
+    background-color: gold;
+}
+
+@media ( min-width:0px) and (max-width :920px) {
+    .content {
+        width: 30%;
+    }
+    .header {
+        width: 60%;
+    }
+    .footer {
+        width: 60%;
+    }
+    .contimg2 {
+        width: 40%;
+    }
+    .contimg3 {
+        width: 100%;
+    }
+}

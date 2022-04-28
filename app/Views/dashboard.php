@@ -21,11 +21,15 @@
             </a>
         </div>
         <div class="textMenu1">
+            <a href="about">
             about
+            </a>
         </div>
     </div>
     <div class="body">
-        <p>nanggala
+        <div>
+            Hoolaa !!!
+        </div>
     </div>
 </body>
 

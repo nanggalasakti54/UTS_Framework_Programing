@@ -60,7 +60,9 @@
                 <img src="img/mt.JPG" class="img3">
             </div>
         </div>
-        <div class="footer"></div>
+        <div class="footer">
+            <a href="dasboard.php">Dasboard</a>
+        </div>
     </div>
 </body>
 

@@ -16,7 +16,9 @@
             </a>
         </div>
         <div class="textMenu1">
+            <a href="setting">
             setting
+            </a>
         </div>
         <div class="textMenu1">
             about

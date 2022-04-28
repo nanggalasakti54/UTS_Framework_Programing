@@ -9,6 +9,22 @@
     grid-template-rows: 80px auto 40px;
 }
 
+.container1 {
+    display: grid;
+    width: 100wh;
+    height: 100vh;
+    grid-template-columns: 200px auto;
+}
+
+.sidebar {
+    background-color: yellow;
+}
+
+.body {
+    background-color: aqua;
+    display: grid;
+}
+
 .header {
     text-align: center;
     font-size: 40px;
@@ -57,6 +73,20 @@
     flex-direction: column;
 }
 
+.textMenu {
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 20px;
+    padding: 10px;
+}
+
+.textMenu1 {
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 15px;
+    padding-left: 10px;
+    padding-top: 5px;
+    padding-bottom: 5px;
+}
+
 .text1 {
     margin-top: 20px;
     margin-left: 20px;
@@ -85,6 +115,11 @@
 
 .footer {
     background-color: gold;
+}
+
+.box {
+    vertical-align: middle;
+    margin-left: 35%;
 }
 
 @media ( min-width:0px) and (max-width :920px) {

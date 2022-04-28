@@ -5,15 +5,26 @@
     <link rel="stylesheet" href="style.css">
 </head>
 
-<body>
-    <div class="box"><img src="img\logoundiknas.jpeg" ></div>
-    <a href="menu">
-        <h1 style="text-align: center;">Ujian Tengah Semester Desain Web Sore</h1>
-    </a>
-    <h2 style="text-align: center;">Guntur Nanggala Sakti</h2>
-    <h2 style="text-align: center;">41930033</h2>
-
-
+<body class="container1">
+    <div class="sidebar">
+        <div class="textMenu">
+            MENU
+        </div>
+        <div class="textMenu1">
+            <a href="profile">
+            profile
+            </a>
+        </div>
+        <div class="textMenu1">
+            setting
+        </div>
+        <div class="textMenu1">
+            about
+        </div>
+    </div>
+    <div class="body">
+        <p>nanggala
+    </div>
 </body>
 
 </html>

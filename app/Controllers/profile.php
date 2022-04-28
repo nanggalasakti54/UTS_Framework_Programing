@@ -2,11 +2,11 @@
 
 namespace App\Controllers;
 
-class menu extends BaseController
+class profile extends BaseController
 {
     public function index()
     {
-        return view('menu');
+        return view('profile');
     }
 
 }

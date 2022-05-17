@@ -54,7 +54,7 @@
                     <h2>Hobby</h2>
                     <p>
                         Saya adalah manusia yang senang dengan kegiatan fisik, seperti olahraga, hiking, dan kegiatan aktifitas dialam. karena dengan melakukan aktifitas itu saya bisa merasa lebih baik, walau terkadang saya melakukannya sendiri, apalagi kegiatan dialam, saya
-                        tak pernah merasa bosan, karena disana banyak sekali hal yang bisa membuat hati terasa senang bahkan dapat meningkatkan mood.
+                        tak pernah merasa bosan, karena disana banyak sekali hal yang bisa membuat hati hati terasa senang bahkan dapat meningkatkan mood.
                     </p>
                 </div>
                 <img src="img/mt.JPG" class="img3">
